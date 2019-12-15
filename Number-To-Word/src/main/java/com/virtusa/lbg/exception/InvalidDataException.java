@@ -1,7 +1,6 @@
 package com.virtusa.lbg.exception;
 /**
- * 
- * customized exception class to handle invalid data.
+  * customized exception class to handle invalid data.
  */
 
 public class InvalidDataException extends Exception{
